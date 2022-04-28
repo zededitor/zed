@@ -1,5 +1,6 @@
 Zed
 ======
+This is a continuation of the zed project started in 2013 by Zef Hemmel. The scope of this project is to continue the mission of the original authors to build the ultimate simple yet highly efficient code editor.
 
 Welcome to [Zed](http://zedapp.org), a code editor built using web technologies, designed to rethink some of the assumptions that underly most editors today. Some of the editor's core features are the features it does **not** have:
 
@@ -63,6 +64,11 @@ Inspiration for Zed comes from:
   with new file creation
 * Apple's iOS and recent Mac file management: abstraction from whether a file
   is open and by removing the idea that a file has to be explicitly saved.
+  
+Contributing
+------------
+
+If you wish to contribute to this project, start by selecting an open issue and leave a comment suggesting you are going to work on it. Then fork the repo and go ahead and fix ther issue. Then open a pull request where you are going to specify the issue number. We will review and approve/decline/comment on your pr.
 
 Technology
 ----------
